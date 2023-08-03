@@ -14,5 +14,5 @@ node -v : 노드js버전 출력
 * 같이 설치되는 npm도 확인 -> npm -v
 npm : node pajage manager 
 
-
+vscode다운받기 
 

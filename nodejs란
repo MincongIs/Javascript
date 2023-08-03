@@ -1,0 +1,18 @@
+nodejs 란 
+브라우저마다 각기 다른 엔진을 사용함
+safari - nitro
+firefox-spider monkey
+chrom - v8  등...
+브라우저 에서 독립 가능했던 v8엔진을 이용해서 자바스크립트를 브라우저가 아닌 어디에서든 사용 가능하게 만듬 -> 즉 js의 실행 환경이됨 
+노드js를 다운받으면 컴퓨터에서 js를 사용가능함
+
+node.js다운받기 - 안정된 LTS버전을 다운 받는다
+
+설치파일 클릭하고 체크박스체크하고 설치후 window + R 누르고 cmd 확인클릭 
+-> 명령크롬프트 터미널 열림 
+node -v : 노드js버전 출력 
+* 같이 설치되는 npm도 확인 -> npm -v
+npm : node pajage manager 
+
+
+
